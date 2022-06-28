@@ -532,7 +532,7 @@ window.cssVar = cssVar;
 &lt;&lt;set $KenjuroPass to &quot;Uma!@420Fire&quot;&gt;&gt;
 &lt;&lt;set $KaheelaPass to &quot;Bibo47&quot;&gt;&gt;
 &lt;&lt;set $GenbuPass to &quot;crouchingtigerhiddenturtle&quot;&gt;&gt;
-&lt;&lt;set $HiroPass to &quot;OFF&quot;&gt;&gt;
+&lt;&lt;set $HiroPass to &quot;bruh&quot;&gt;&gt;
     
 &lt;div id=&quot;wrapper&quot;&gt;
  &lt;div class=&quot;glass&quot;&gt;&lt;/div&gt;
